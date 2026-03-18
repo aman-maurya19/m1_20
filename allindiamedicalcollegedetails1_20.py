@@ -15,7 +15,7 @@ from selenium.common.exceptions import TimeoutException
 
 # ---------------- URLS ----------------
 BASE_URL = [
-  "https://www.shiksha.com/college/all-india-institute-of-medical-sciences-delhi-gautam-nagar-24433",
+ "https://www.shiksha.com/college/all-india-institute-of-medical-sciences-delhi-gautam-nagar-24433",
   "https://www.shiksha.com/college/christian-medical-college-vellore-24644",
   "https://www.shiksha.com/college/postgraduate-institute-of-medical-education-and-research-chandigarh-1494",
   "https://www.shiksha.com/university/kgmu-king-george-s-medical-university-lucknow-2102",
@@ -23,18 +23,18 @@ BASE_URL = [
   "https://www.shiksha.com/university/bits-pilani-birla-institute-of-technology-and-science-467",
   "https://www.shiksha.com/college/sanjay-gandhi-postgraduate-institute-of-medical-sciences-lucknow-64281",
   "https://www.shiksha.com/college/national-institute-of-mental-health-and-neurosciences-hosur-road-bangalore-25138",
-  "https://www.shiksha.com/college/kasturba-medical-college-manipal-manipal-academy-of-higher-education-3245",
+  "https://www.shiksha.com/university/banaras-hindu-university-varanasi-23336",
   "https://www.shiksha.com/college/sree-chitra-tirunal-institute-for-medical-sciences-and-technology-thiruvananthapuram-67731",
-  "https://www.shiksha.com/college/vardhman-mahavir-medical-college-safdarjang-enclave-delhi-52968",
-  "https://www.shiksha.com/college/aiims-jodhpur-all-india-institute-of-medical-sciences-64869",
   "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-raebareli-lucknow-154235",
+  "https://www.shiksha.com/college/aiims-jodhpur-all-india-institute-of-medical-sciences-64869",
   "https://www.shiksha.com/university/srm-institute-of-science-and-technology-kattankulathur-chennai-24749",
-  "https://www.shiksha.com/college/institute-of-post-graduate-medical-education-and-research-a-j-c-bose-road-kolkata-29761",
+  "https://www.shiksha.com/college/vardhman-mahavir-medical-college-safdarjang-enclave-delhi-52968",
   "https://www.shiksha.com/university/central-university-of-punjab-punjab-other-32738",
-  "https://www.shiksha.com/college/maulana-azad-medical-college-university-of-delhi-bahadur-shah-zafar-marg-3429",
+  "https://www.shiksha.com/college/institute-of-post-graduate-medical-education-and-research-a-j-c-bose-road-kolkata-29761",
   "https://www.shiksha.com/college/kalinga-institute-of-medical-sciences-kalinga-institute-of-industrial-technology-bhubaneswar-52221",
-  "https://www.shiksha.com/university/aiims-raipur-all-india-institute-of-medical-sciences-65411",
-  "https://www.shiksha.com/university/jamia-hamdard-delhi-3082",
+  "https://www.shiksha.com/university/babasaheb-bhimrao-ambedkar-university-bbau-lucknow-26165",
+  "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-hajipur-203789",
+  "https://www.shiksha.com/university/parul-university-vadodara-30821",
 ]
 
 
